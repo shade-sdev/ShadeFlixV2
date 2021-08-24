@@ -1,0 +1,24 @@
+RewriteEngine On
+Options -Indexes
+
+
+RewriteEngine On
+RewriteBase /
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.php [NC]
+RewriteRule ^ %1 [R=301,L]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*?)/?$ $1.php [NC,L]
+ErrorDocument 404 /404.php
+RewriteRule ^movie/view/([0-9]+) index.php?movieview=$1
+RewriteRule ^movie/page/([0-9]+) index.php?moviepage=$1
+RewriteRule ^tv/view/([0-9]+) index.php?tview=$1
+RewriteRule ^tv/page/([0-9]+) index.php?tvpage=$1
+RewriteRule ^episode/view/([-0-9a-zA-Z/%&]+)/season/([0-9]+)/episode/([0-9]+) index.php?episodeview=$1&season=$2&episode=$3
+RewriteRule ^genre/([0-9]+)/page/([0-9]+) index.php?genre=$1&page=$2
+RewriteRule ^search/movie/(.*)$ index.php?search=$1&type=movie
+RewriteRule ^search/tv/(.*)$ index.php?search=$1&type=tv
+RewriteRule ^customsearch/(.*)$ index.php?customsearch=$1
+RewriteRule ^custom/torrent9/url/(.*)$ index.php?custom=torrent9&url=$1
+RewriteRule ^custom/yggtorrent/url/(.*)$ index.php?custom=yggtorrent&url=$1
+RewriteRule ^setting index.php?setting=
