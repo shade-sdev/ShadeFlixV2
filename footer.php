@@ -21,8 +21,8 @@
 	            <div class="col-12 col-sm-4 col-md-3">
 	                <h6 class="footer__title">Contact</h6>
 	                <ul class="footer__list">
-	                    <li><a href="tel:+18002345678">+230 5xxx-xxxx</a></li>
-	                    <li><a href="mailto:support@moviego.com">shade@shade.ga</a></li>
+	                    <li><a href="tel:">xxxx-xxxx</a></li>
+	                    <li><a href="mailto:">shade@shade.ga</a></li>
 	                </ul>
 	                <ul class="footer__social">
 	                    <li class="facebook"><a href="#"><i class="icon ion-logo-facebook"></i></a></li>
