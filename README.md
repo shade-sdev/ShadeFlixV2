@@ -55,8 +55,8 @@
 
 ### Built With
 
-* [PHP](https://docs.microsoft.com/en-us/dotnet/csharp/)
-* [JAVASCRIPT](https://docs.microsoft.com/en-us/dotnet/csharp/)
+* [PHP](https://www.php.net/)
+* [JAVASCRIPT](https://www.javascript.com/)
 
 
 
@@ -68,7 +68,7 @@ Download the release from the release section of this project:
 
 ### Prerequisites
 
-* [XAMPP](https://download.visualstudio.microsoft.com/download/pr/7afca223-55d2-470a-8edc-6a1739ae3252/abd170b4b0ec15ad0222a809b761a036/ndp48-x86-x64-allos-enu.exe)
+* [XAMPP](https://www.apachefriends.org/download.html)
 
 
 
