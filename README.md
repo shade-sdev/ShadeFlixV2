@@ -34,10 +34,10 @@
     <img src="https://i.imgur.com/IHJUtdz.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">GDrive</h3>
+  <h3 align="center">ShadeFlix</h3>
 
   <p align="center">
-    Google Drive Desktop Application
+ Watch French Movies & TV Shows Online from a torrent scrapper hosted on your own machine.
     <br />
  
   </p>
