@@ -14,7 +14,7 @@ RewriteRule ^movie/view/([0-9]+) index.php?movieview=$1
 RewriteRule ^movie/page/([0-9]+) index.php?moviepage=$1
 RewriteRule ^tv/view/([0-9]+) index.php?tview=$1
 RewriteRule ^tv/page/([0-9]+) index.php?tvpage=$1
-RewriteRule ^episode/view/([-0-9a-zA-Z/%&]+)/season/([0-9]+)/episode/([0-9]+) index.php?episodeview=$1&season=$2&episode=$3
+RewriteRule ^episode/view/(.*)/season/([0-9]+)/episode/([0-9]+) index.php?episodeview=$1&season=$2&episode=$3
 RewriteRule ^genre/([0-9]+)/page/([0-9]+) index.php?genre=$1&page=$2
 RewriteRule ^search/movie/(.*)$ index.php?search=$1&type=movie
 RewriteRule ^search/tv/(.*)$ index.php?search=$1&type=tv

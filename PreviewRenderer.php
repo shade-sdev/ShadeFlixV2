@@ -551,8 +551,6 @@ switch ($count) {
                 echo '<tbody>';
                 $sanitizeName = str_replace(" ", "-", $movieArray['name']);
                 $sanitizeName = str_replace("?", "",  $sanitizeName);
-                $sanitizeName = str_replace(".", "",  $sanitizeName);
-                $sanitizeName = str_replace("'", "",  $sanitizeName);
                 for ($j = 1; $j <= $movieArray['seasons'][$i - 1]['episode_count']; $j++) {
                     echo '<tr>';
                     echo '<th><a href="/episode/view/' . $sanitizeName . '/season/' . $i . '/episode/' . $j . '">' . $j . '</a></th>';
