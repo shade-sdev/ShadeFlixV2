@@ -20,10 +20,10 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-![Issues](https://img.shields.io/github/issues/shade-sdev/GDrive)
-![Forks](https://img.shields.io/github/forks/shade-sdev/GDrive)
-![Stars](https://img.shields.io/github/stars/shade-sdev/GDrive)
-![License](https://img.shields.io/github/license/shade-sdev/GDrive)
+![Issues](https://img.shields.io/github/issues/shade-sdev/ShadeFlixV2)
+![Forks](https://img.shields.io/github/forks/shade-sdev/ShadeFlixV2)
+![Stars](https://img.shields.io/github/stars/shade-sdev/ShadeFlixV2)
+![License](https://img.shields.io/github/license/shade-sdev/ShadeFlixV2)
 
 
 
@@ -48,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="https://i.imgur.com/1xDEHWx.png" width="1200px" height="600px">
+<img src="https://i.imgur.com/1S6XQ6o.png" width="1200px" height="600px">
 
 **The aim of this project was to build a desktop app to quickly upload files, and switch between users in a swift.*
 
