@@ -7,10 +7,11 @@
 3. Place the files from the release in: C:\xampp\htdocs
 4. Run the XAMPP server
 5. Create an Account on [TMDB](https://www.themoviedb.org/signup) then login, [navigate here](https://www.themoviedb.org/settings/api) to get your APIv3.
-6. Edit the .env file from the htdocs folder, with the TMDB API Key, domain of torrent9 and optionally yggtorrent.
+6. Edit the .env file from the htdocs folder, with the TMDB API Key from your account, domain of torrent9 and optionally yggtorrent.
 
 
 ```
+THIS IS AN EXAMPLE ONLY!!
 TMDB_API_KEY=2bbdb454545457250d37755545
 YGGTORRENT_USERNAME=OPTIONAL
 YGGTORRENT_PASSWORD=OPTIONAL
