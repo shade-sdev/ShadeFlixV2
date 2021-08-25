@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ShadeFlix
 
 You can use the [editor on GitHub](https://github.com/shade-sdev/ShadeFlixV2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
