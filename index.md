@@ -2,7 +2,7 @@
 
 Installation:
 
-1. Download & Install XAMPP
+1. Download & Install XAMPP [GitHub](http://github.com)
 2. Download the release and extract it
 3. Place the files from the release in: C:\xampp\htdocs
 4. Run the XAMPP server
