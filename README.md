@@ -50,7 +50,7 @@
 
 <img src="https://i.imgur.com/1S6XQ6o.png">
 
-**The aim of this project was to build a web application which is hosted on the user's machine, which dynamically adds movies and tv shows into the application.*
+**The aim of this project was to build a web application which is hosted on the user's machine, which automatically adds movies and tv shows into the application.*
 
 
 ### Built With
