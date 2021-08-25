@@ -7,6 +7,12 @@
 3. Place the files from the release in: C:\xampp\htdocs
 4. Run the XAMPP server
 5. Navigate to http://localhost
+6. Edit the .env file with the domain of torrent9 and optionally yggtorrent
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
 
 
 ### Support or Contact
