@@ -10,8 +10,8 @@
 
 As Kanye West said:
 
-> We're living the future so
-> the present is our past.
+```We're living the future so
+the present is our past.```
 
 6. Navigate to http://localhost
 
