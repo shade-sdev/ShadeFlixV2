@@ -73,7 +73,9 @@ Download the release from the release section of this project:
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Installation
+
+Navigate to https://shade-sdev.github.io/ShadeFlixV2/ for instructions.
 
 
 <!-- LICENSE -->
