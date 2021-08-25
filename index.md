@@ -1,6 +1,6 @@
 ## ShadeFlix
 
-Installation:
+### Installation:
 
 1. Download & Install [XAMPP](https://www.apachefriends.org/download.html)
 2. Download the [Release](https://github.com/shade-sdev/ShadeFlixV2/archive/refs/tags/2.0.zip) and extract it using winrar or 7-zip.
