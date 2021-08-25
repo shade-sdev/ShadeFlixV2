@@ -6,7 +6,7 @@
 2. Download the [Release](https://github.com/shade-sdev/ShadeFlixV2/archive/refs/tags/2.0.zip) and extract it using winrar or 7-zip.
 3. Place the files from the release in: C:\xampp\htdocs
 4. Run the XAMPP server
-5. Create an Account on [TMDB](https://www.themoviedb.org/signup) then login, [navigate here](https://www.themoviedb.org/settings/api) to get your APIv3.
+5. Create an Account on [TMDB](https://www.themoviedb.org/signup) then login, [navigate here](https://www.themoviedb.org/settings/api) to get your TMDB APIv3 Key.
 6. Edit the .env file from the htdocs folder, with the TMDB API Key from your account, domain of torrent9 and optionally yggtorrent.
 
 
