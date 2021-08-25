@@ -11,4 +11,4 @@
 
 ### Support or Contact
 
-Having trouble installing? Contact me on discord [「𝙎𝙃𝘼𝘿𝙀」#0004](「𝙎𝙃𝘼𝘿𝙀」#0004).
+Having trouble installing? Contact me on discord [「𝙎𝙃𝘼𝘿𝙀」#0004](https://discord.com/download).
