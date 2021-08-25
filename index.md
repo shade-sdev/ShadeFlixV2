@@ -8,9 +8,6 @@ Installation:
 4. Run the XAMPP server
 5. Navigate to http://localhost
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shade-sdev/ShadeFlixV2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
