@@ -2,8 +2,8 @@
 
 Installation:
 
-1. Download & Install XAMPP [GitHub](http://github.com)
-2. Download the release and extract it
+1. Download & Install [XAMPP](https://www.apachefriends.org/download.html)
+2. Download the [Release](https://github.com/shade-sdev/ShadeFlixV2/archive/refs/tags/2.0.zip) and extract it using winrar or 7-zip.
 3. Place the files from the release in: C:\xampp\htdocs
 4. Run the XAMPP server
 5. Navigate to http://localhost
