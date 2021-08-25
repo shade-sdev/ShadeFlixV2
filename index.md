@@ -19,7 +19,7 @@ YGGTORRENT_DOMAIN=OPTIONAL
 NJNf=fefef
 ```
 
-6. Navigate to http://localhost
+7. Navigate to http://localhost
 
 
 ### Support or Contact
