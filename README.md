@@ -71,6 +71,17 @@ Download the release from the release section of this project:
 * [XAMPP](https://www.apachefriends.org/download.html)
 
 
+<!-- Features -->
+## Features
+
+- [x] TMDB for movie and tv show data, thus movies are added automatically.
+- [x] Torrent scrapping for movies and tv shows, uses torrent9 as main torrent, alternatively you can use both yggtorrent and torrent9 to search.
+- [x] Stream torrent videos on the web app itself.
+- [x] Download torrent via magnet link via your torrent client
+- [x] Converting torrent files to magnet link for yggtorrent
+- [x] Beautiful URL links
+- [ ] Tracking user activity
+
 
 <!-- USAGE EXAMPLES -->
 ## Installation
