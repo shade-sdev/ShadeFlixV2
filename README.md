@@ -61,14 +61,8 @@
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
 
-Download the release from the release section of this project: 
 
-### Prerequisites
-
-* [XAMPP](https://www.apachefriends.org/download.html)
 
 
 <!-- Features -->
@@ -82,9 +76,12 @@ Download the release from the release section of this project:
 - [x] Beautiful URL links
 - [ ] Tracking user activity
 
+### Prerequisites
 
-<!-- USAGE EXAMPLES -->
-## Installation
+* [XAMPP](https://www.apachefriends.org/download.html)
+
+<!-- GETTING STARTED -->
+## Getting Started
 
 Navigate to https://shade-sdev.github.io/ShadeFlixV2/ for instructions.
 
