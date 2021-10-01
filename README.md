@@ -83,7 +83,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Navigate to https://shade-sdev.github.io/ShadeFlixV2/ for instructions.
+ShadeFlix has been deployed, access it here: https://shadeflix.ga/
 
 
 <!-- LICENSE -->
