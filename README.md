@@ -30,11 +30,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/shade-sdev/ShadeFlixV2">
+  <a href="https://shadeflix.ga/">
     <img src="https://i.imgur.com/IHJUtdz.png" alt="Logo" width="32" height="32">
   </a>
 
-  <h3 align="center"> <img src="https://i.imgur.com/KyLa8U7.png" alt="Logo"></h3>
+  <a href="https://shadeflix.ga/"><h3 align="center"> <img src="https://i.imgur.com/KyLa8U7.png" alt="Logo"></h3></a>
 
   <p align="center">
  Watch French Movies & TV Shows Online from a torrent scrapper hosted on your own machine.
