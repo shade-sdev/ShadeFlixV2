@@ -37,7 +37,7 @@
   <a href="https://shadeflix.ga/"><h3 align="center"> <img src="https://i.imgur.com/KyLa8U7.png" alt="Logo"></h3></a>
 
   <p align="center">
- Watch French Movies & TV Shows Online.
+ Watch Movies & TV Shows Online in French.
     <br />
  
   </p>
